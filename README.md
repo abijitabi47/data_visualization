@@ -12,4 +12,4 @@ npm start
 
 ## 📸 Screenshot
 
-![App Screenshot](./C:\Users\abiji\data-csv\1.png.png)
+![App Screenshot](./C:\Users\abiji\data-csv\1.png)
