@@ -9,3 +9,9 @@ git clone https://github.com/your-username/data_visualization.git
 cd data_visualization
 npm install
 npm start
+![CSV Viewer Screenshot](./1.png)
+![CSV Viewer Screenshot](./2.png)
+![CSV Viewer Screenshot](./3.png)
+![CSV Viewer Screenshot](./4.png)
+![CSV Viewer Screenshot](./5.png)
+![CSV Viewer Screenshot](./6.png)
