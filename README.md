@@ -4,7 +4,7 @@ CSV Plot Viewer is a modern, responsive React web application that allows users 
 
 ## 🚀 Getting Started
 
-```bash
+
 git clone https://github.com/your-username/data_visualization.git
 cd data_visualization
 npm install
