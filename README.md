@@ -9,3 +9,5 @@ git clone https://github.com/your-username/data_visualization.git
 cd data_visualization
 npm install
 npm start
+
+![image alt](https://github.com/abijitabi47/data_visualization/blob/0765f5c39493473dffcaa3b57e5d7bd1e7b3c3bb/1.png)
