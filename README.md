@@ -10,4 +10,6 @@ cd data_visualization
 npm install
 npm start
 
-![CSV Viewer Screenshot](./1.png)
+## 📸 Screenshot
+
+![App Screenshot](./1.png)
