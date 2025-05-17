@@ -10,4 +10,9 @@ cd data_visualization
 npm install
 npm start
 ```
+![img alt](https://github.com/abijitabi47/data_visualization/blob/main/1.png?raw=true)
 ![img alt](https://github.com/abijitabi47/data_visualization/blob/bfbe10d9275e6b0e0e0535dd1f73b59b805729b4/2.jpg)
+![img alt](https://github.com/abijitabi47/data_visualization/blob/main/3.png?raw=true)
+![img alt](https://github.com/abijitabi47/data_visualization/blob/main/4.png?raw=true)
+![img alt](https://github.com/abijitabi47/data_visualization/blob/main/5.png?raw=true)
+![img alt](https://github.com/abijitabi47/data_visualization/blob/main/6.png?raw=true)
