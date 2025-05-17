@@ -1,0 +1,57 @@
+:root {
+  --primary-bg: linear-gradient(135deg, #1f4037, #99f2c8);
+  --card-bg: rgba(255, 255, 255, 0.75);
+  --accent: #1e88e5;
+  --text-dark: #1c1c1c;
+  --radius: 16px;
+}
+
+body {
+  margin: 0;
+  font-family: "Segoe UI", sans-serif;
+  background: var(--primary-bg);
+  background-attachment: fixed;
+  background-size: cover;
+  min-height: 100vh;
+}
+
+.container {
+  max-width: 960px;
+  margin: 40px auto;
+  padding: 32px;
+  background: var(--card-bg);
+  border-radius: var(--radius);
+  box-shadow: 0 8px 30px rgba(0, 0, 0, 0.2);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  color: var(--text-dark);
+}
+
+.header {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+.header h1 {
+  font-size: 2.2rem;
+  color: var(--accent);
+}
+
+.header p {
+  color: #333;
+  font-size: 1rem;
+}
+@keyframes fadeInUp {
+  0% {
+    transform: translateY(10px);
+    opacity: 0;
+  }
+  100% {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+
+.container {
+  animation: fadeInUp 0.6s ease-out;
+}
