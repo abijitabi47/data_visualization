@@ -10,5 +10,4 @@ cd data_visualization
 npm install
 npm start
 
-```html
-<img src="./1.png" alt="Screenshot 1" width="600"/>
+![CSV Viewer Screenshot](./1.png)
